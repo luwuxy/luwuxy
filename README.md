@@ -8,7 +8,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="120" align="center">
+      <td width="160" height="160" align="center">
         <img src="nijika.png" width="120" alt="Profile Picture" style="border-radius: 50%;">
       </td>
       <td>
