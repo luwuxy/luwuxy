@@ -13,7 +13,6 @@
       </td>
       <td>
         <strong>Name:</strong> Luxy/Celsi<br>
-        <strong>Pronouns:</strong> She/her<br>
         <strong>Hobbies:</strong> Most of what I do in my free time is just watching anime and playing games, though I've been studying coding a lot more recently.<br>
         <strong>Languages I know:</strong> HTML, CSS, JavaScript, Java, Python
       </td>
