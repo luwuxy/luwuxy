@@ -14,7 +14,7 @@
       <td>
         <strong>Name:</strong> Luxy/Celsi<br>
         <strong>Hobbies:</strong> Most of what I do in my free time is just watching anime and playing games, though I've been studying coding a lot more recently.<br>
-        <strong>Languages I know:</strong> HTML, CSS, JavaScript, Java, Python
+        <strong>Languages I know:</strong> HTML, CSS, JavaScript, Java, Python, Ruby
       </td>
     </tr>
   </tbody>
